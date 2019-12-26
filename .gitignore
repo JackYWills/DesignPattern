@@ -7,3 +7,4 @@
 .idea/workspace.xml
 *.class
 target/classes/META-INF/DesignPattern.kotlin_module
+.idea/vcs.xml
