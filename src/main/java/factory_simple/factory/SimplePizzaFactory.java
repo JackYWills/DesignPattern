@@ -1,9 +1,9 @@
-package simplefactory.factory;
+package factory_simple.factory;
 
 
-import simplefactory.pizza.CheesePizza;
-import simplefactory.pizza.Pizza;
-import simplefactory.pizza.VeggiePizza;
+import factory_simple.pizza.CheesePizza;
+import factory_simple.pizza.Pizza;
+import factory_simple.pizza.VeggiePizza;
 
 /**
  * @Description:

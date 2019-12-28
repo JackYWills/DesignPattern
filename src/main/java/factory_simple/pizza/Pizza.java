@@ -1,4 +1,4 @@
-package simplefactory.pizza;
+package factory_simple.pizza;
 
 /**
  * @Description:

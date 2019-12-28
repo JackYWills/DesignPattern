@@ -1,7 +1,7 @@
-package simplefactory;
+package factory_simple;
 
-import simplefactory.factory.SimplePizzaFactory;
-import simplefactory.pizza.Pizza;
+import factory_simple.factory.SimplePizzaFactory;
+import factory_simple.pizza.Pizza;
 
 /**
  * @Author: yanwenjie
